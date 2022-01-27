@@ -157,7 +157,7 @@ function htmlRequest(urlData, firstCheck) {
         process.stdout.write(urlData.hostname+'\n');
       }
     })
-    req.end()
+    req.end();
 }
 
 function processResponse(data, url) {
@@ -174,7 +174,5 @@ function processResponse(data, url) {
       const hashedEmail = sha256Hasher.update(email).digest("hex");
       result.email = hashedEmail;
   }
-  // console.log(result);
   process.stdout.write(JSON.stringify(result)+'\n');
-  
 }
