@@ -1,11 +1,11 @@
 # Node.js-Code-Challenge
 Node.js Code Challenge
 
-*installation:*
+# installation:
 
 npm install
 
-running the script:
+# running the script:
 
 last argument should be path to a text file, ie:
 
