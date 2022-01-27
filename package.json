@@ -1,0 +1,22 @@
+{
+  "name": "nodetest4",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "url": "^0.11.0",
+    "url-regex": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

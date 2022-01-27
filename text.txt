@@ -1,0 +1,7 @@
+pocetak \[nistavan] 111 11111 111 [ 222 vanjski [ prvi INNER www.google.com 333] between [drugi inner] 4444 ] 555 55555555  [ drugi ] 666666 6 66 6 [treci ] 777 7 77 
+[ http://cip.foi.hr/foi-email/ ]
+sdfgsdfg [ www.monitorsdfgsdfgsdgsdfgsdfgs.hr ]sdf s sdfg
+other example [ www.google.com ] fgs
+yet another example [ some text www.google.com ] sdfgsd
+asdf \[www.google.com]
+[www.index.hr]
