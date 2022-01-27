@@ -3,10 +3,10 @@ Node.js Code Challenge
 
 # Installation:
 
-npm install
+`npm install`
 
 # Running the script:
 
 last argument should be path to a text file, ie:
 
-node app.js text.txt
+`node app.js text.txt`
